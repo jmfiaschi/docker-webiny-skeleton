@@ -1,6 +1,5 @@
 # docker-webiny-skeleton
-Docker Compose to initialize webiny in local
-
+This project helps to install webiny in local with make and docker.
 ## Initialize the project
 Requirement: Make should be installed in local.
 ```
