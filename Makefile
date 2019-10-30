@@ -31,7 +31,7 @@ stop: ## Stop all containers.
 	@docker-compose down
 
 restart: ## Restart all containers.
-restart: stop start
+        stop start
 
 logs: ## Display logs.
 	@docker-compose logs -f
